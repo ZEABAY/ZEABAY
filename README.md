@@ -4,7 +4,7 @@ I'm computer engineering student at İnönü University ,trying to improve mysel
 
 
 - 🌱 I’m currently learning React
-- 📫 How to reach me: [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeabay99/)
+- 📫 How to reach me: &nbsp; [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeabay99/)
 
 
 
