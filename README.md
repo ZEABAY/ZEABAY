@@ -3,7 +3,7 @@
 I'm computer engineering student at İnönü University ,trying to improve myself at web development.
 
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: &nbsp; [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeabay99/)
 
 
