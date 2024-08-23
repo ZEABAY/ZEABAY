@@ -1,4 +1,4 @@
-### Hi there👋 Im Zeynel - aka ZEABAY
+### Hi there👋 Im Zeynel
 
 I'm computer engineering student at İnönü University ,trying to improve myself at Java Spring.
 
