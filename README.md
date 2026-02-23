@@ -1,61 +1,116 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zeabay99&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=zeabay&label=Profil%20Görüntüleme&color=0d1117&style=for-the-badge" alt="Profile views" />
 </div>
 
-<h1 align="center">🧱 Zeynel Abiddin Aydar | Sistem ve Backend Geliştiricisi</h1>
-<h3 align="center">Temiz Kod ve Ölçeklenebilir Sistem Mimari Kurulumuna Tutkulu Mühendis.</h3>
-
----
-
-## 💡 Temel Odak ve Felsefem
-
-Ben sadece yazılım geliştirmekle kalmayıp, kurduğum sistemin **Clean Architecture (Temiz Mimari)** prensiplerine uygun, sürdürülebilir ve esnek olmasını ilke edinen bir mühendisim. Mevcut bir işin ticari kodunu yazmanın yanı sıra, **altyapıyı sağlam temeller üzerine kurmak** ve **kaliteli kod tabanı (codebase)** oluşturmak en büyük motivasyon kaynağımdır.
-
----
-
-## 🛠️ Yetenek Kümesi ve Uzmanlık Alanları
-
-| Kategori | Teknolojiler | Odak Noktası / Deneyim |
-| :--- | :--- | :--- |
-| **Backend & Core** | **Java**, **Spring Boot/Framework**, Kotlin | Mimari Tasarım, API Geliştirme, İş Mantığı |
-| **Veritabanları** | **MSSQL**, İlişkisel Veritabanı Tasarımı | Yüksek Performanslı Sorgu Optimizasyonu |
-| **Frontend** | **Angular**, TypeScript | Kullanıcı Arayüzü Entegrasyonu (Uçtan Uca Geliştirme) |
-| **Entegrasyonlar** | RESTful API, B2B İş Modelleri | Kurumsal Entegrasyon (IYS, Data Sync) |
-| **Mühendislik Prensipleri**| **Clean Code**, **Clean Architecture**, **SOLID** | Kod Kalitesi ve Sürdürülebilirlik |
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Zeynel+Abiddin+Aydar;Backend+Engineer;Clean+Architecture+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+</div>
 
 <div align="center">
-  <h3>✨ Teknik Araçlar ve Diller</h3>
-  <img src="https://skillicons.dev/icons?i=java,spring,mssql,kotlin,angular,ts,git,docker,idea,postman" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 ---
 
-## 💼 Kurumsal Deneyimden Çıkarımlar
+## 🧠 Kimim?
 
-Şu anda **E-Bebek** bünyesinde Yazılım Geliştirici Danışmanı olarak çalışıyorum. Bu rolde edindiğim tecrübeler:
+Kurumsal sistemlerin üretim ortamında **Java & Spring** ile çalışıyor, boş vakitlerinde **Next.js** ile modern full-stack dünyasını keşfediyorum. Kod yazarken önce mimariyi, sonra implementasyonu düşünürüm.
 
-* **Mimari Uygulama:** Java ve Spring kullanarak kurumsal düzeyde B2B, IYS, müşteri verisi senkronizasyonu gibi entegrasyon sistemlerinin Backend altyapısını kurma ve yönetme.
-* **Full-Stack Sorumluluk:** Angular ile Frontend tarafında da sorumluluk alarak, geliştirdiğim sistemin uçtan uca çalışır durumda teslimini sağlama.
-* **Teknolojik Çeşitlilik:** Kurumsal dünyada kullanılan kritik araçlar olan **Java, Spring, MSSQL ve Angular** teknolojilerinde derinlemesine deneyim.
+> *"The only way to go fast, is to go well."*
+> — **Robert C. Martin**, *Clean Code*
+
+Benim için iyi yazılım; sadece çalışan değil, **okunabilir, değiştirilebilir ve sürdürülebilir** yazılımdır.
 
 ---
 
-## 🌐 Bana Ulaşın (Connect With Me)
+## ⚙️ Teknoloji Yığını
 
 <div align="center">
-  <a href="mailto:zeynelaydar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,nextjs,react,ts,angular,postgresql,sqlserver,docker,git,postman" />
+</div>
+
+<br/>
+
+| Alan | Teknolojiler |
+| :--- | :--- |
+| **Backend** | Java · Spring Boot · Spring Framework · RESTful API |
+| **Frontend** | Angular · Next.js · React · TypeScript |
+| **Veritabanı** | MSSQL · PostgreSQL |
+| **Mimari** | Clean Architecture · SOLID · Clean Code · DDD |
+| **DevOps** | Docker · Git |
+
+---
+
+## 🚀 Öne Çıkan Proje — Pulse Social App
+
+> Twitter/Instagram benzeri, **üretim kalitesinde** bir sosyal medya platformu. Post, hikaye, keşfet, bildirimler, gerçek zamanlı chat ve öneri sistemi. 10+ microservice, full reactive stack.
+
+🔗 **[zeabay/pulse-social-app](https://github.com/zeabay/pulse-social-app)**
+
+---
+
+### 🔩 pulse-backend &nbsp;·&nbsp; `Java 25` `Spring Boot 4` `WebFlux` `R2DBC`
+
+Event-driven microservice mimarisi üzerine kurulu, tam reaktif bir stack. Projenin kalbinde, tüm servislerin üzerine inşa edildiği **`zeabay-common`** platformu yer alıyor.
+
+Bu kütüphane; projenin ihtiyacına göre sürekli gelişen, Cross-Cutting gereksinimleri (API standartları, Tracing, Kafka/Outbox entegrasyonları, Security vb.) tek bir merkezden yöneten ve boilerplate kod yükünü ortadan kaldıran bir **standardizasyon platformudur.**
+
+**Servisler:** `auth` · `user-profile` · `post` · `follow` · `timeline` · `media` · `notification` · `chat` · `search` · `story` · `recommender`
+
+---
+
+### 🌐 pulse-web &nbsp;·&nbsp; `Next.js` `TypeScript` `App Router`
+
+Modern SSR/SSG yeteneklerini kullanan, performans ve DX odaklı, backend ile tam entegre frontend katmanı.
+
+---
+
+## 💼 Deneyim
+
+**E-Bebek · Yazılım Geliştirici Danışmanı** *(Devam ediyor)*
+
+Kurumsal ölçekte B2B entegrasyon sistemleri geliştiriyorum. Java/Spring tabanlı backend altyapısı kuruyorum; IYS entegrasyonu, müşteri verisi senkronizasyonu ve kritik iş süreçlerini kapsayan sistemlerde sorumluluk alıyorum. Angular tarafında da uçtan uca teslimat gerçekleştiriyorum.
+
+---
+
+## 📊 GitHub İstatistiklerim
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=zeabay&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=tr" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeabay&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+## 🌐 Bana Ulaşın
+
+<div align="center">
+  <a href="mailto:zeynelaydar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/zeabay99" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/zeabay99" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/zeabay" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://zeynelaydar.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-4E708A?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://stackoverflow.com/users/YOUR_STACKOVERFLOW_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+    <img src="https://img.shields.io/badge/zeynelaydar.com-4E708A?style=for-the-badge&logo=about-dot-me&logoColor=white" />
   </a>
 </div>
