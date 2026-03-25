@@ -25,12 +25,10 @@
 
 ## 🧠 Kimim?
 
-Kurumsal sistemlerin üretim ortamında **Java & Spring** ile çalışıyor, boş vakitlerinde **Next.js** ile modern full-stack dünyasını keşfediyorum. Kod yazarken önce mimariyi, sonra implementasyonu düşünürüm.
+Java ve Spring ekosistemiyle kurumsal ölçekli sistemler tasarlıyor, modern full-stack dünyasını ise Next.js ile keşfediyorum. Benim için kod yazmak, sadece çalışan bir uygulama ortaya çıkarmak değil; sağlam bir mimari üzerine inşa edilmiş, okunabilir ve sürdürülebilir sistemler kurmaktır.
 
 > *"The only way to go fast, is to go well."*
 > — **Robert C. Martin**, *Clean Code*
-
-Benim için iyi yazılım; sadece çalışan değil, **okunabilir, değiştirilebilir ve sürdürülebilir** yazılımdır.
 
 ---
 
@@ -52,35 +50,27 @@ Benim için iyi yazılım; sadece çalışan değil, **okunabilir, değiştirile
 
 ---
 
+## 💼 Deneyim & Eğitim
+
+**E-Bebek · Yazılım Geliştirici Danışmanı** *(Devam ediyor)*
+Kurumsal ölçekte B2B entegrasyon sistemleri geliştiriyorum. Java/Spring tabanlı backend altyapıları kuruyor; IYS entegrasyonu, müşteri verisi senkronizasyonu ve kritik e-ticaret süreçlerinde sorumluluk alıyorum. Aynı zamanda Angular ile uçtan uca çözümler üretiyorum.
+
+**İnönü Üniversitesi · Bilgisayar Mühendisliği** *(Temmuz 2024)*
+Lisans eğitimimi **3.35/4.00** ortalama ile tamamladım.
+
+---
+
 ## 🚀 Öne Çıkan Proje — Pulse Social App
 
-> Twitter/Instagram benzeri, **üretim kalitesinde** bir sosyal medya platformu. Post, hikaye, keşfet, bildirimler, gerçek zamanlı chat ve öneri sistemi. 10+ microservice, full reactive stack.
+> Üretim standartlarında tasarlanmış, tam reaktif (reactive) mikroservis mimarisine sahip bir sosyal medya platformu. 
 
 🔗 **[zeabay/pulse-social-app](https://github.com/zeabay/pulse-social-app)**
 
----
-
 ### 🔩 pulse-backend &nbsp;·&nbsp; `Java 25` `Spring Boot 4` `WebFlux` `R2DBC`
-
-Event-driven microservice mimarisi üzerine kurulu, tam reaktif bir stack. Projenin kalbinde, tüm servislerin üzerine inşa edildiği **`zeabay-common`** platformu yer alıyor.
-
-Bu kütüphane; projenin ihtiyacına göre sürekli gelişen, Cross-Cutting gereksinimleri (API standartları, Tracing, Kafka/Outbox entegrasyonları, Security vb.) tek bir merkezden yöneten ve boilerplate kod yükünü ortadan kaldıran bir **standardizasyon platformudur.**
-
-**Servisler:** `auth` · `user-profile` · `post` · `follow` · `timeline` · `media` · `notification` · `chat` · `search` · `story` · `recommender`
-
----
+Event-driven mimari üzerine kurulu altyapı. Projenin kalbinde yer alan **`zeabay-common`** platformu ile API standartları, Tracing, Security ve Kafka/Outbox entegrasyonları gibi *cross-cutting* gereksinimleri tek bir merkezden yöneterek boilerplate kod yükünü ortadan kaldırıyorum.
 
 ### 🌐 pulse-web &nbsp;·&nbsp; `Next.js` `TypeScript` `App Router`
-
-Modern SSR/SSG yeteneklerini kullanan, performans ve DX odaklı, backend ile tam entegre frontend katmanı.
-
----
-
-## 💼 Deneyim
-
-**E-Bebek · Yazılım Geliştirici Danışmanı** *(Devam ediyor)*
-
-Kurumsal ölçekte B2B entegrasyon sistemleri geliştiriyorum. Java/Spring tabanlı backend altyapısı kuruyorum; IYS entegrasyonu, müşteri verisi senkronizasyonu ve kritik iş süreçlerini kapsayan sistemlerde sorumluluk alıyorum. Angular tarafında da uçtan uca teslimat gerçekleştiriyorum.
+Modern SSR/SSG yeteneklerini kullanan, performans ve geliştirici deneyimi (DX) odaklı web arayüzü.
 
 ---
 
